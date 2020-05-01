@@ -5,9 +5,7 @@ User Interface-
 
 ![Login page](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image001.png)
 ![Home page](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image002.png)
-![Horror genre books](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image003.jpg)
 ![Adventure genre books](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image004.png)
-![Thriller genre books](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image005.png)
 ![Rating page](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image6.png)
 ![Recommendation books page](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image7.png)
 ![Console screenshot](https://github.com/priyanka-badgujar/Books_recommendation_system/blob/master/screenshots/image8.png)
