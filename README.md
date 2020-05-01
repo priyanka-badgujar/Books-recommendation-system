@@ -1,5 +1,5 @@
 # Books_recommendation_system
-Recommendation of books using K-nearest neighbors algorithm and Apache Cassandra database
+Recommendation of books using machine learning and Apache Cassandra database
 
 User Interface-
 
